@@ -1,4 +1,4 @@
-### Solana Devnet Airdrop & Enrollment Project
+# Solana Devnet Airdrop & Enrollment Project
 
 This hands-on project was built as part of the Q2 2025 Solana Prerequisite coursework and is designed to deepen your understanding of Solana development using TypeScript.
 
